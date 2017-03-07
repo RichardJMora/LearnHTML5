@@ -1,6 +1,6 @@
-# Project Title
+# Learn HTML5
 
-Learn HTML5
+Guide HTML5
 
 ## Getting Started
 
