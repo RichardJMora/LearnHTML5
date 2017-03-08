@@ -9,12 +9,10 @@ This is a guide on html5 and its features.
 
 ### Prerequisites
 
-
-```
 Preferred text editor.
 * [Sublime Text](http://www.sublimetext.com/)
 * [Notepad](https://notepad-plus-plus.org/)
-```
+
 
 ### What is HTML?
 
